@@ -1,15 +1,15 @@
-Algoritmo "ConversãoRealDolar"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-//rotina que converte um determinado valor em reais em dólares
+	Algoritmo "ConversãoRealDolar"
+	// Disciplina   : [Linguagem e Lógica de Programação] 
+	// Professor   : Antonio Carlos Nicolodi 
+	//rotina que converte um determinado valor em reais em dólares
 
-Var
+	Var
 
-  Valor_real,Cotacao_dolar, Conversao: real
-  Cont, Q: inteiro
+ 	 Valor_real,Cotacao_dolar, Conversao: real
+ 	 Cont, Q: inteiro
 
 
-Inicio
+	Inicio
         cont <- 1
         Escreval (" ----------------------------------------------")
         Escreval ("|    Programa para converter reais em dolar    |")
@@ -30,5 +30,5 @@ Inicio
 	Fimenquanto
 
 
-Fimalgoritmo
+	Fimalgoritmo
 
