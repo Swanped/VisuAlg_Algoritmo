@@ -10,7 +10,7 @@
                  Escreval ("|1.Fahrenheit/Celsius                 |")
                  Escreval ("|2.Celsius/Fahrenheit                 |")
                  Escreval ("|3.Sair                               |")
-                 Escreval  (" -------------------------------------")
+                 Escreval (" -------------------------------------")
                  Escreva (" Digite sua opção: ")
                  Leia (Opcao)
                  Se (Opcao = 1) Entao
