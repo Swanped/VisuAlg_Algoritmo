@@ -1,24 +1,24 @@
-Algoritmo "CriançaEsperança"
+	Algoritmo "CriançaEsperança"
 
-// Data atual  : 29/06/2021
-Var
+	// Data atual  : 29/06/2021
+	Var
 
-D: inteiro
-Valor: real
+	D: inteiro
+	Valor: real
 
-Inicio
-	 Escreva (" __________________________________________" )
-	Escreval ("|                                          |")
-	Escreval ("|       Bem-vindo ao Criança Esperança     |")
-	Escreval ("|                 Vamos Doar?              |")
-	Escreval ("| 1. Doar 10 reias                         |")
-	Escreval ("| 2. Doar 20 reias                         |")
-	Escreval ("| 3. Doar 40 reias                         |")
-	Escreval ("| 4. Doar 60 reias                         |")
-	Escreval ("| 5. Doar  qualquer valor                  |")
-	Escreval ("| 6. Sair                                  |")
-	Escreval ("|__________________________________________|")
-	Leia (D)
+	Inicio
+		 Escreva (" __________________________________________" )
+		Escreval ("|                                          |")
+		Escreval ("|       Bem-vindo ao Criança Esperança     |")
+		Escreval ("|                 Vamos Doar?              |")
+		Escreval ("| 1. Doar 10 reias                         |")
+		Escreval ("| 2. Doar 20 reias                         |")
+		Escreval ("| 3. Doar 40 reias                         |")
+		Escreval ("| 4. Doar 60 reias                         |")
+		Escreval ("| 5. Doar  qualquer valor                  |")
+		Escreval ("| 6. Sair                                  |")
+		Escreval ("|__________________________________________|")
+		Leia (D)
 
 
 	 Escolha D
@@ -42,4 +42,4 @@ Inicio
 	Escreval ("           MUITO OBRIGADO")
 	Escreval ("   Agradecemos pela a sua ajuda de RS" ,Valor)
 	Escreval ("----------------------------------------------")
-Fimalgoritmo
+	Fimalgoritmo
